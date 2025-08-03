@@ -1,0 +1,5 @@
+pygame>=2.1.0
+pygbag>=0.8.0
+
+# Optional: For local development
+# asyncio (built-in with Python 3.7+)
